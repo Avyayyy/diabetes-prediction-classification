@@ -30,7 +30,7 @@ Since this is a classification problem, the model will be evaluated based on **m
 
 ## 4. Features
 
-This dataset comprises 100,000 entries, each representing an individual's health and demographic data pertinent to diabetes research. The dataset includes 16 columns:
+This dataset comprises 100,000 entries, each representing an individual's health and demographic data pertinent to diabetes research. The dataset includes 17 columns:
 
 1. `year`
 2. `gender`
